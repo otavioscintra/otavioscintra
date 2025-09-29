@@ -1,6 +1,9 @@
 # 👋 Olá! Eu me chamo Otávio Cintra
 
-🎓 **Atualmente:** Estudante do Ensino Fundamental  
+## 📚 Estudos Atuais
+![Python](https://img.shields.io/badge/Python-Aprendendo-blue?logo=python&logoColor=white)  
+📖 Lendo: "Entendendo Algoritmos"
+
 💻 **Interesses:** Inteligência Artificial e Back-end
 
 ---
@@ -10,10 +13,10 @@
 ✅ **Terceira fase da OBI** (Olimpíada Brasileira de Informática)
 
 **Medalhas:**
-- 🥉 **Canguru de Matemática (2x Bronze, 1x Prata)** 🎯  
-- 🥉 **OLITEF (Bronze)** 🏅  
-- 🏅 **OBLI (Honra ao Mérito)** 🏆  
-- 🥇 **OBS** 🏅
+- 🥉 **Canguru de Matemática (2x Bronze, 1x Prata)** 
+- 🥉 **OLITEF (Bronze)** 
+- 🏅 **OBLI (Honra ao Mérito)** 
+- 🥇 **OBS** 
 
 ---
 
@@ -29,3 +32,4 @@
 - **Aprender Java**  
 - **Criar projetos próprios**  
 - **Entrar na ETEC (DS-AMS)**
+
