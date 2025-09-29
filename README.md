@@ -1,7 +1,7 @@
 # 👋 Olá! Eu me chamo Otávio Cintra
 
 ## 📚 Estudos Atuais
-📖 Lendo: "Entendendo Algoritmos"
+📖 Lendo: "Entendendo Algoritmos"  
 
 💻 **Interesses:** Inteligência Artificial e Back-end
 
@@ -15,7 +15,13 @@
 - 🥉 **Canguru de Matemática (2x Bronze, 1x Prata)** 🎯  
 - 🥉 **OLITEF (Bronze)** 🏅  
 - 🏅 **OBLI (Honra ao Mérito)** 🏆  
-- 🥇 **OBS** 🏅
+- 🥇 **OBS** 🏅  
+
+**Badges de Olimpíadas:**
+![Canguru](https://img.shields.io/badge/Canguru-2xBronze_1xPrata-orange?logo=mathworks&logoColor=white)
+![OLITEF](https://img.shields.io/badge/OLITEF-Bronze-red?logo=mathworks&logoColor=white)
+![OBLI](https://img.shields.io/badge/OBLI-Honra_ao_Mérito-blue?logo=mathworks&logoColor=white)
+![OBS](https://img.shields.io/badge/OBS-Ouro-yellow?logo=mathworks&logoColor=white)
 
 ---
 
@@ -29,13 +35,8 @@
 ## 🎯 Objetivos
 
 - **Aprender Java**  
+- **Aprender Excel e Power BI**  
 - **Criar projetos próprios**  
 - **Entrar na ETEC (DS-AMS)**
 
----
 
-## 🎯 Objetivos
-
-- **Aprender Java**  
-- **Criar projetos próprios**  
-- **Entrar na ETEC (DS-AMS)**
