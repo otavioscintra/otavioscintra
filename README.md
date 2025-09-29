@@ -1,11 +1,13 @@
 # 👋 Olá! Eu me chamo Otávio Silveira Cintra
 
+🎓 Estudante do Ensino Fundamental
+
 ## 📚 Estudos Atuais
 
 🐍 **Aprendendo Python**  
-📖 Lendo: "Entendendo Algoritmos"  
+📖 **Lendo:** **"Entendendo Algoritmos"**
 
-💻 **Interesses:** Inteligência Artificial e Back-end
+💻 **Interesses:** **Inteligência Artificial e Back-end**
 
 ---
 
@@ -35,6 +37,4 @@
 - **Aprender Excel e Power BI**  
 - **Criar projetos próprios**  
 - **Entrar na ETEC (DS-AMS)**
-
-
 
