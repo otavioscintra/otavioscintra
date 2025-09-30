@@ -38,3 +38,8 @@
 - **Criar projetos próprios**  
 - **Entrar na ETEC (DS-AMS)**
 
+---
+
+## 📂 Repositórios / Projetos
+
+- **Gerador de CPF** – Projeto em Python para gerar CPFs válidos. [GitHub](https://github.com/otavioscintra/gerador-de-cpf-python)
