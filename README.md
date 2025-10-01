@@ -41,4 +41,4 @@
 
 ## 📂 Repositórios / Projetos
 
-- **Gerador de CPF** – Projeto em Python que permite gerar CPFs válidos, tanto no formato numérico quanto formatado com pontos e traço. [GitHub](https://github.com/otavioscintra/gerador-de-cpf-python)
+- **Gerador de CPF** – Projeto em Python que permite gerar CPFs válidos. [GitHub](https://github.com/otavioscintra/gerador-de-cpf-python)
