@@ -15,7 +15,7 @@
 
 **Medalhas:**
 - ![OBS](https://img.shields.io/badge/OBS-Ouro-yellow?logo=mathworks&logoColor=white)  
-- ![Canguru](https://img.shields.io/badge/Canguru-1xPrata-lightgrey?logo=mathworks&logoColor=white)  
+- ![Canguru](https://img.shields.io/badge/Canguru-Prata-lightgrey?logo=mathworks&logoColor=white)  
 - ![Canguru](https://img.shields.io/badge/Canguru-2xBronze-orange?logo=mathworks&logoColor=white)  
 - ![OLITEF](https://img.shields.io/badge/OLITEF-Bronze-orange?logo=mathworks&logoColor=white)  
 - ![OBGP](https://img.shields.io/badge/OBGP-Bronze-orange?logo=mathworks&logoColor=white)  
