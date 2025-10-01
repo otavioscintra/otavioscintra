@@ -11,7 +11,8 @@
 
 ## 🏆 Olimpíadas de Conhecimento
 
-✅ **Terceira fase da OBI** (Olimpíada Brasileira de Informática)
+✅ **Terceira fase da OBI** (Olimpíada Brasileira de Informática)(2023)
+✅ **Segunda fase da OBI** (Olimpíada Brasileira de Informática)(2025)
 
 **Medalhas:**
 - ![OBS](https://img.shields.io/badge/OBS-Ouro-yellow?logo=mathworks&logoColor=white)  
