@@ -1,7 +1,5 @@
 # 👋 Olá! Eu me chamo Otávio Silveira Cintra
 
-🎓 Estudante do Ensino Fundamental
-
 ## 📚 Estudos Atuais
 
 🐍 **Aprendendo Python**  
@@ -17,10 +15,12 @@
 
 **Medalhas:**
 - ![OBS](https://img.shields.io/badge/OBS-Ouro-yellow?logo=mathworks&logoColor=white)  
-- ![Canguru](https://img.shields.io/badge/Canguru-Prata-lightgrey?logo=mathworks&logoColor=white) 
+- ![Canguru](https://img.shields.io/badge/Canguru-1xPrata-lightgrey?logo=mathworks&logoColor=white)  
 - ![Canguru](https://img.shields.io/badge/Canguru-2xBronze-orange?logo=mathworks&logoColor=white)  
-- ![OLITEF](https://img.shields.io/badge/OLITEF-Bronze-red?logo=mathworks&logoColor=white)  
+- ![OLITEF](https://img.shields.io/badge/OLITEF-Bronze-orange?logo=mathworks&logoColor=white)  
+- ![OBGP](https://img.shields.io/badge/OBGP-Bronze-orange?logo=mathworks&logoColor=white)  
 - ![OBLI](https://img.shields.io/badge/OBLI-Honra_ao_Mérito-blue?logo=mathworks&logoColor=white)  
+- ![OMP](https://img.shields.io/badge/OMP-Honra_ao_Mérito-blue?logo=mathworks&logoColor=white)  
 
 ---
 
@@ -38,8 +38,6 @@
 - **Criar projetos próprios**  
 - **Entrar na ETEC (DS-AMS)**
 
----
-
 ## 📂 Repositórios / Projetos
 
-- **Gerador de CPF** – Projeto em Python para gerar CPFs válidos. [GitHub](https://github.com/otavioscintra/gerador-de-cpf-python)
+- **Gerador de CPF** – Projeto em Python que permite gerar CPFs válidos, tanto no formato numérico quanto formatado com pontos e traço. [GitHub](https://github.com/otavioscintra/gerador-de-cpf-python)
