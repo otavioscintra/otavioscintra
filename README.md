@@ -38,7 +38,8 @@
 - **Aprender Excel e Power BI**  
 - **Criar projetos próprios**  
 - **Entrar na ETEC (DS-AMS)**
-
+- 
 ## 📂 Repositórios / Projetos
 
-- **Gerador de CPF** – Projeto em Python que permite gerar CPFs válidos. [GitHub](https://github.com/otavioscintra/gerador-de-cpf-python)
+- **Gerador de CPF** – Projeto em Python que permite gerar CPFs válidos. [GitHub](https://github.com/otavioscintra/gerador-de-cpf-python)  
+- **Calculadora Python** – Calculadora interativa com menu, histórico e 7 operações diferentes. [GitHub](https://github.com/otavioscintra/calculadora-python)
