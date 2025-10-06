@@ -1,3 +1,5 @@
+![Banner](https://i.imgur.com/ZP9bJ4V.gif)
+
 # 👋 Olá! Eu me chamo Otávio Silveira Cintra
 
 ## 📚 Estudos Atuais
