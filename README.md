@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/ZP9bJ4V.gif)
+![Banner](https://i.imgur.com/V7R8F7E.gif)
 
 # 👋 Olá! Eu me chamo Otávio Silveira Cintra
 
